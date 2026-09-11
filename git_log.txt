@@ -1,0 +1,45 @@
+commit 771bc0307ac264b1b4c76f6726ca75c581dcd0a7
+Merge: b7b2e55 1169d66
+Author: mustafa-kazmi <ms7007465@gmail.com>
+Date:   Thu Sep 10 17:01:39 2026 -0700
+
+    Resolve merge conflict
+
+commit 1169d66b5d0a39672bfa93a79047169fac9182d1
+Author: mustafa-kazmi <ms7007465@gmail.com>
+Date:   Thu Sep 10 16:48:50 2026 -0700
+
+    Add favorite movie
+
+commit b7b2e55f7d940454bd487a291f96cf609c22ccaf
+Author: mustafa-kazmi <ms7007465@gmail.com>
+Date:   Thu Sep 10 16:38:06 2026 -0700
+
+    Add favorite food
+
+commit e276b4b0f7c3bcbb7fe75b724f0cdae7f0edbb56
+Author: mustafa-kazmi <ms7007465@gmail.com>
+Date:   Thu Sep 10 16:26:18 2026 -0700
+
+    Add README
+
+commit 077516b6bdcc9878e55bff1b6939c690e0eb7ef1
+Merge: 1d2bfc0 060b905
+Author: mustafa-kazmi <ms7007465@gmail.com>
+Date:   Thu Sep 10 16:15:40 2026 -0700
+
+    Merge pull request #1 from mustafa-kazmi/info-fill
+    
+    Fill in personal information
+
+commit 060b90519581071f4c72a39d6b3385a52cc99517
+Author: mustafa-kazmi <ms7007465@gmail.com>
+Date:   Thu Sep 10 16:07:00 2026 -0700
+
+    Fill in personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
